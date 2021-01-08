@@ -4,5 +4,5 @@ This is a project that scrapes library operational hours and determine whether t
 * datetime function
 
 ### Notes added in 2020:
-This program do not run as it intended at the moment, probably due to the fact that COVID-forced lockdown of libraries, 
+This program does not run as it intended at the moment, probably due to the fact that COVID-forced lockdown of libraries, 
 operational hours were no longer displayed in the same format as they used to. 
